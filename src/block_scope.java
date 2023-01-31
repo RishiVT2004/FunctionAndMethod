@@ -19,4 +19,4 @@ public class block_scope {
     }
 // anything initialised outside can be used inside the block but not vice versa//
 // anything initialised outside the block can't be initialised inside the block but anything
-//initialised inside the block can be initialsed outside.e
+//initialised inside the block can be initialsed outside
